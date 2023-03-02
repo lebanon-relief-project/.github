@@ -1,6 +1,6 @@
 # Trauma Relief Network
 
-<img src="https://github.com/lebanon-relief-project/TN-brand/blob/dev/images/TRN_logo_text_big.png" width=50% height=50%>
+<img src="https://github.com/lebanon-relief-project/TN-brand/logo/blob/dev/images/TRN_logo_text_big.png" width=50% height=50%>
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://www.lebanonreliefnetwork.org/)
 
