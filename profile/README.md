@@ -30,7 +30,7 @@ The Trauma Relief Network platform will:
 
 The Trauma Relief Network focusses on help requests and offers related to trauma, and effects of trauma on mental health.
 
-![TRN platform](images/LRN_scope_2.png)
+![TRN platform](images/TRN_scope_2.png)
 
 The platform will address:
 
@@ -87,7 +87,7 @@ The solution is a web-based platform.
 - Personal and Sensitive Information is encrypted at rest
 - Email notifications and calendar invites are sent via SMTP
 
-![architecture](images/LRN_architecture.png)
+![architecture](images/TRN_architecture.png)
 
 ### IBM Cloud Services
 
